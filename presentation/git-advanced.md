@@ -141,6 +141,6 @@ https://help.github.com/articles/using-pull-requests/#reviewing-the-pull-request
 
 
 ##Further resources:
-[1] https://help.github.com  (Really good with lots of screen shots)
-[2] http://git-scm.com/book/en/v2/Getting-Started-Git-Basics (the bible)
+[1] https://help.github.com  (Really good with lots of screen shots)   
+[2] http://git-scm.com/book/en/v2/Getting-Started-Git-Basics (the bible)  
 [3] http://onlywei.github.io/explain-git-with-d3/ (Visual learners)  
