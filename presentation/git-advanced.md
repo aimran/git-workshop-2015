@@ -38,14 +38,14 @@ provide similar experiences like [bitbucket](https://bitbucket.org),
 [googlecode](http://code.google.com) etc. Much of the open source libraries are
 hosted on Github.
 
-###:vertical_traffic_light: Ex 1: Create a brand new repo on Github
 <a id='ex1'></a>
+###:vertical_traffic_light: Ex 1: Create a brand new repo on Github
 
 Create a brand new repo on Github. Add a README file.
 
 
-###:vertical_traffic_light: Ex 2: Clone your partner's  repo
 <a id='ex2'></a>
+###:vertical_traffic_light: Ex 2: Clone your partner's  repo
 Clone your partner's repo that she just created.
 
     $ git clone git@github.com:your-partner/putput.git
@@ -64,8 +64,8 @@ The **git remote** command allows you to add, name, rename, list, and
 delete repositories such as the original one **upstream** from your
 fork, others that may be **parallel** to your fork, and so on.
 
-###:vertical_traffic_light: Ex 3: Fork you partner's GitHub Repository
 <a id='ex3'></a>
+###:vertical_traffic_light: Ex 3: Fork you partner's GitHub Repository
 Step 1: You will make a copy "fork" of the repository github.  Now you
 have a copy of the repo that you are free to do whatever you
 want with it :neckbeard:
