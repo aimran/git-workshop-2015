@@ -30,8 +30,8 @@ for routine work:
 
     $ git config --global core.editor /usr/bin/vim
     $ git config --global color.ui always
-    $ git config --global alias.df diff --color --color-words --abbrev
-    $ git config --global alias.lg log --color --graph --pretty --abbrev-commit
+    $ git config --global alias.df 'diff --color --color-words --abbrev'
+    $ git config --global alias.lg 'log --color --graph --pretty --abbrev-commit'
 
 There is no magic here. All we are doing is editing the
 global config file, stored at `~/.gitconfig`.
